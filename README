@@ -1,0 +1,5 @@
+python qr_code.py sf 'cartes infas.xlsx' 'cartes_infas_qrcode.xlsx' 8
+
+
+
+explication : python qr_code.py directory input_file output_file 'colonne à modifier'
